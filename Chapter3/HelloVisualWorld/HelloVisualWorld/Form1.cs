@@ -7,7 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: September 27, 2016
+///   Purpose: Program that displays "Hello World" visually
+///-----------------------------------------------------------------
 namespace HelloVisualWorld
 {
     public partial class HelloForm : Form

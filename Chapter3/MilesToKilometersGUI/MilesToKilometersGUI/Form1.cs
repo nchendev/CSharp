@@ -7,7 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: September 27, 2016
+///   Purpose: Program that converts miles to kilometers 
+///-----------------------------------------------------------------
 namespace MilesToKilometersGUI
 {
     public partial class Form1 : Form
