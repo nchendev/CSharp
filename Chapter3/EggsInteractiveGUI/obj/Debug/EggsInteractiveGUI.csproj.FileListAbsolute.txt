@@ -1,0 +1,17 @@
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Form1.resources
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
+C:\Users\XM03-1021\Desktop\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Form1.resources
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.GenerateResource.Cache
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb
