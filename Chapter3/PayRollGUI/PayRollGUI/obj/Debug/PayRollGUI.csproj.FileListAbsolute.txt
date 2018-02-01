@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\bin\Debug\PayRollGUI.exe.config
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\obj\Debug\PayRollGUI.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\obj\Debug\PayRollGUI.Form1.resources
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\obj\Debug\PayRollGUI.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\obj\Debug\PayRollGUI.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\bin\Debug\PayRollGUI.exe
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\bin\Debug\PayRollGUI.pdb
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\obj\Debug\PayRollGUI.exe
+C:\Users\XM03-1021\Desktop\PayRollGUI\PayRollGUI\obj\Debug\PayRollGUI.pdb

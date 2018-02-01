@@ -1,0 +1,19 @@
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloForm.resources
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\Users\XM03-1021\Desktop\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe.config
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.HelloForm.resources
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.GenerateResource.Cache
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.csproj.CoreCompileInputs.cache
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.exe
+C:\Users\nickc\Desktop\C#-20180201T012337Z-001\C#\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\HelloVisualWorld.pdb
