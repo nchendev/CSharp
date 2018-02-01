@@ -1,0 +1,5 @@
+C:\Users\XM03-1021\Desktop\SortWords\SortWords\bin\Debug\SortWords.exe.config
+C:\Users\XM03-1021\Desktop\SortWords\SortWords\bin\Debug\SortWords.exe
+C:\Users\XM03-1021\Desktop\SortWords\SortWords\bin\Debug\SortWords.pdb
+C:\Users\XM03-1021\Desktop\SortWords\SortWords\obj\Debug\SortWords.exe
+C:\Users\XM03-1021\Desktop\SortWords\SortWords\obj\Debug\SortWords.pdb

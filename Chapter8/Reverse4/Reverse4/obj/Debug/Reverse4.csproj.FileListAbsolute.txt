@@ -1,0 +1,6 @@
+C:\Users\nc0967554\Desktop\Reverse4\Reverse4\bin\Debug\Reverse4.exe.config
+C:\Users\nc0967554\Desktop\Reverse4\Reverse4\obj\Debug\Reverse4.csprojResolveAssemblyReference.cache
+C:\Users\nc0967554\Desktop\Reverse4\Reverse4\bin\Debug\Reverse4.exe
+C:\Users\nc0967554\Desktop\Reverse4\Reverse4\bin\Debug\Reverse4.pdb
+C:\Users\nc0967554\Desktop\Reverse4\Reverse4\obj\Debug\Reverse4.exe
+C:\Users\nc0967554\Desktop\Reverse4\Reverse4\obj\Debug\Reverse4.pdb

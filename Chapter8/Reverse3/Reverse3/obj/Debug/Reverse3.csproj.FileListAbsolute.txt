@@ -1,0 +1,6 @@
+C:\Users\nc0967554\Desktop\Reverse3\Reverse3\bin\Debug\Reverse3.exe.config
+C:\Users\nc0967554\Desktop\Reverse3\Reverse3\obj\Debug\Reverse3.csprojResolveAssemblyReference.cache
+C:\Users\nc0967554\Desktop\Reverse3\Reverse3\bin\Debug\Reverse3.exe
+C:\Users\nc0967554\Desktop\Reverse3\Reverse3\bin\Debug\Reverse3.pdb
+C:\Users\nc0967554\Desktop\Reverse3\Reverse3\obj\Debug\Reverse3.exe
+C:\Users\nc0967554\Desktop\Reverse3\Reverse3\obj\Debug\Reverse3.pdb

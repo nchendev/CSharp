@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\bin\Debug\PickLarger.exe.config
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\bin\Debug\PickLarger.exe
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\bin\Debug\PickLarger.pdb
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\obj\Debug\PickLarger.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\obj\Debug\PickLarger.Form1.resources
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\obj\Debug\PickLarger.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\obj\Debug\PickLarger.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\obj\Debug\PickLarger.exe
+C:\Users\XM03-1021\Desktop\PickLarger\PickLarger\obj\Debug\PickLarger.pdb

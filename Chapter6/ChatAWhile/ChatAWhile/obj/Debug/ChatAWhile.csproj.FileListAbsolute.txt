@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe.config
+C:\Users\XM03-1021\Desktop\ChatAWhile\ChatAWhile\obj\Debug\ChatAWhile.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\XM03-1021\Desktop\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\Users\XM03-1021\Desktop\ChatAWhile\ChatAWhile\obj\Debug\ChatAWhile.exe
+C:\Users\XM03-1021\Desktop\ChatAWhile\ChatAWhile\obj\Debug\ChatAWhile.pdb

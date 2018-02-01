@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe.config
+C:\Users\XM03-1021\Desktop\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe
+C:\Users\XM03-1021\Desktop\SubscriptExceptionTest\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.pdb
+C:\Users\XM03-1021\Desktop\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.exe
+C:\Users\XM03-1021\Desktop\SubscriptExceptionTest\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.pdb

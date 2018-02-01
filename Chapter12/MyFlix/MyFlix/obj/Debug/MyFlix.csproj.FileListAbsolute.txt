@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\bin\Debug\MyFlix.exe.config
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\bin\Debug\MyFlix.exe
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\bin\Debug\MyFlix.pdb
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.Form1.resources
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.exe
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.pdb
+C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.csprojResolveAssemblyReference.cache

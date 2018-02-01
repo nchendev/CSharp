@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\bin\Debug\fivecolors2.exe.config
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\bin\Debug\fivecolors2.exe
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\bin\Debug\fivecolors2.pdb
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\obj\Debug\fivecolors2.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\obj\Debug\fivecolors2.Form1.resources
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\obj\Debug\fivecolors2.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\obj\Debug\fivecolors2.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\obj\Debug\fivecolors2.exe
+C:\Users\XM03-1021\Desktop\fivecolors2\fivecolors2\obj\Debug\fivecolors2.pdb

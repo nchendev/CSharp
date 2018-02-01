@@ -1,0 +1,12 @@
+c:\users\xm03-1021\documents\visual studio 2015\Projects\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe.config
+c:\users\xm03-1021\documents\visual studio 2015\Projects\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe
+c:\users\xm03-1021\documents\visual studio 2015\Projects\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.pdb
+c:\users\xm03-1021\documents\visual studio 2015\Projects\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.csprojResolveAssemblyReference.cache
+c:\users\xm03-1021\documents\visual studio 2015\Projects\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.exe
+c:\users\xm03-1021\documents\visual studio 2015\Projects\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.pdb
+C:\Users\XM03-1021\Desktop\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe.config
+C:\Users\XM03-1021\Desktop\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.exe
+C:\Users\XM03-1021\Desktop\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.pdb
+C:\Users\XM03-1021\Desktop\IntegerFacts\IntegerFacts\obj\Debug\IntegerFacts.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.exe
+C:\Users\XM03-1021\Desktop\IntegerFacts\IntegerFacts\bin\Debug\IntegerFacts.pdb

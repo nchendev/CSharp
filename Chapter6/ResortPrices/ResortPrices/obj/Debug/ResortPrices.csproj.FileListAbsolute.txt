@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe.config
+C:\Users\XM03-1021\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe
+C:\Users\XM03-1021\Desktop\ResortPrices\ResortPrices\bin\Debug\ResortPrices.pdb
+C:\Users\XM03-1021\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.exe
+C:\Users\XM03-1021\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.pdb

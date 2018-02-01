@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\SalesPersonDemo\SalesPersonDemo\bin\Debug\SalesPersonDemo.exe.config
+C:\Users\XM03-1021\Desktop\SalesPersonDemo\SalesPersonDemo\obj\Debug\SalesPersonDemo.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\SalesPersonDemo\SalesPersonDemo\bin\Debug\SalesPersonDemo.exe
+C:\Users\XM03-1021\Desktop\SalesPersonDemo\SalesPersonDemo\bin\Debug\SalesPersonDemo.pdb
+C:\Users\XM03-1021\Desktop\SalesPersonDemo\SalesPersonDemo\obj\Debug\SalesPersonDemo.exe
+C:\Users\XM03-1021\Desktop\SalesPersonDemo\SalesPersonDemo\obj\Debug\SalesPersonDemo.pdb

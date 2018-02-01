@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.exe.config
+C:\Users\XM03-1021\Desktop\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.exe
+C:\Users\XM03-1021\Desktop\TaxPayerDemo\TaxPayerDemo\bin\Debug\TaxPayerDemo.pdb
+C:\Users\XM03-1021\Desktop\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.exe
+C:\Users\XM03-1021\Desktop\TaxPayerDemo\TaxPayerDemo\obj\Debug\TaxPayerDemo.pdb

@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\bin\Debug\NinasCookieSource.exe.config
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\bin\Debug\NinasCookieSource.exe
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\bin\Debug\NinasCookieSource.pdb
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.Form1.resources
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.exe
+C:\Users\XM03-1021\Desktop\NinasCookieSource\NinasCookieSource\obj\Debug\NinasCookieSource.pdb

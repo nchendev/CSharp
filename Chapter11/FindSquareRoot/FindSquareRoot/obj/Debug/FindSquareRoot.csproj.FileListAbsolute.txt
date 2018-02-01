@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe.config
+C:\Users\XM03-1021\Desktop\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe
+C:\Users\XM03-1021\Desktop\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.pdb
+C:\Users\XM03-1021\Desktop\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.exe
+C:\Users\XM03-1021\Desktop\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.pdb

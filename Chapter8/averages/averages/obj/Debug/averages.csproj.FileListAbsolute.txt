@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\averages\averages\bin\Debug\averages.exe.config
+C:\Users\XM03-1021\Desktop\averages\averages\bin\Debug\averages.exe
+C:\Users\XM03-1021\Desktop\averages\averages\bin\Debug\averages.pdb
+C:\Users\XM03-1021\Desktop\averages\averages\obj\Debug\averages.exe
+C:\Users\XM03-1021\Desktop\averages\averages\obj\Debug\averages.pdb
+C:\Users\XM03-1021\Desktop\averages\averages\obj\Debug\averages.csprojResolveAssemblyReference.cache

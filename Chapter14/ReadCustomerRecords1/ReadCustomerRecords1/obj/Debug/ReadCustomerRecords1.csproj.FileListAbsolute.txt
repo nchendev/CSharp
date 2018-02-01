@@ -1,0 +1,5 @@
+C:\Users\XM03-1021\Desktop\ReadCustomerRecords1\ReadCustomerRecords1\bin\Debug\ReadCustomerRecords1.exe.config
+C:\Users\XM03-1021\Desktop\ReadCustomerRecords1\ReadCustomerRecords1\bin\Debug\ReadCustomerRecords1.exe
+C:\Users\XM03-1021\Desktop\ReadCustomerRecords1\ReadCustomerRecords1\bin\Debug\ReadCustomerRecords1.pdb
+C:\Users\XM03-1021\Desktop\ReadCustomerRecords1\ReadCustomerRecords1\obj\Debug\ReadCustomerRecords1.exe
+C:\Users\XM03-1021\Desktop\ReadCustomerRecords1\ReadCustomerRecords1\obj\Debug\ReadCustomerRecords1.pdb

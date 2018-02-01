@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe.config
+C:\Users\XM03-1021\Desktop\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe
+C:\Users\XM03-1021\Desktop\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.pdb
+C:\Users\XM03-1021\Desktop\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.exe
+C:\Users\XM03-1021\Desktop\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\OrderDemo2\OrderDemo2\bin\Debug\OrderDemo2.exe.config
+C:\Users\XM03-1021\Desktop\OrderDemo2\OrderDemo2\bin\Debug\OrderDemo2.exe
+C:\Users\XM03-1021\Desktop\OrderDemo2\OrderDemo2\bin\Debug\OrderDemo2.pdb
+C:\Users\XM03-1021\Desktop\OrderDemo2\OrderDemo2\obj\Debug\OrderDemo2.exe
+C:\Users\XM03-1021\Desktop\OrderDemo2\OrderDemo2\obj\Debug\OrderDemo2.pdb
+C:\Users\XM03-1021\Desktop\OrderDemo2\OrderDemo2\obj\Debug\OrderDemo2.csprojResolveAssemblyReference.cache

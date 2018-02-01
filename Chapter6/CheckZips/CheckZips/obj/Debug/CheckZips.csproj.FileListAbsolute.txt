@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\CheckZips\CheckZips\bin\Debug\CheckZips.exe.config
+C:\Users\XM03-1021\Desktop\CheckZips\CheckZips\bin\Debug\CheckZips.exe
+C:\Users\XM03-1021\Desktop\CheckZips\CheckZips\bin\Debug\CheckZips.pdb
+C:\Users\XM03-1021\Desktop\CheckZips\CheckZips\obj\Debug\CheckZips.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\CheckZips\CheckZips\obj\Debug\CheckZips.exe
+C:\Users\XM03-1021\Desktop\CheckZips\CheckZips\obj\Debug\CheckZips.pdb

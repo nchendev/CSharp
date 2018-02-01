@@ -1,0 +1,8 @@
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\bin\Debug\RetrievedCustomizedForm.exe.config
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\obj\Debug\RetrievedCustomizedForm.Form1.resources
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\obj\Debug\RetrievedCustomizedForm.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\obj\Debug\RetrievedCustomizedForm.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\bin\Debug\RetrievedCustomizedForm.exe
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\bin\Debug\RetrievedCustomizedForm.pdb
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\obj\Debug\RetrievedCustomizedForm.exe
+C:\Users\XM03-1021\Desktop\RetrievedCustomizedForm\RetrievedCustomizedForm\obj\Debug\RetrievedCustomizedForm.pdb

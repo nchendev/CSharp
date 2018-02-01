@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\SalesLetter\SalesLetter\bin\Debug\SalesLetter.exe.config
+C:\Users\XM03-1021\Desktop\SalesLetter\SalesLetter\obj\Debug\SalesLetter.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\SalesLetter\SalesLetter\bin\Debug\SalesLetter.exe
+C:\Users\XM03-1021\Desktop\SalesLetter\SalesLetter\bin\Debug\SalesLetter.pdb
+C:\Users\XM03-1021\Desktop\SalesLetter\SalesLetter\obj\Debug\SalesLetter.exe
+C:\Users\XM03-1021\Desktop\SalesLetter\SalesLetter\obj\Debug\SalesLetter.pdb

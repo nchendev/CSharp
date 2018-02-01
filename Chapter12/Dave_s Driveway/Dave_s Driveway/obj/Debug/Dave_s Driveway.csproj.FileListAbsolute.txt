@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\bin\Debug\Dave's Driveway.exe.config
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave's Driveway.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave_s_Driveway.Form1.resources
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave_s_Driveway.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave's Driveway.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\bin\Debug\Dave's Driveway.exe
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\bin\Debug\Dave's Driveway.pdb
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave's Driveway.exe
+C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave's Driveway.pdb

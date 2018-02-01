@@ -1,0 +1,11 @@
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\bin\Debug\CarDealer.exe.config
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\bin\Debug\CarDealer.exe
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\bin\Debug\CarDealer.pdb
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.honda.resources
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.nissan.resources
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.subaru.resources
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.exe
+C:\Users\XM03-1021\Desktop\CarDealer\CarDealer\obj\Debug\CarDealer.pdb

@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\bin\Debug\FlorenceFloralCreations.exe.config
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\bin\Debug\FlorenceFloralCreations.exe
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\bin\Debug\FlorenceFloralCreations.pdb
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\obj\Debug\FlorenceFloralCreations.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\obj\Debug\FlorenceFloralCreations.Form1.resources
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\obj\Debug\FlorenceFloralCreations.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\obj\Debug\FlorenceFloralCreations.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\obj\Debug\FlorenceFloralCreations.exe
+C:\Users\XM03-1021\Desktop\FlorenceFloralCreations\FlorenceFloralCreations\obj\Debug\FlorenceFloralCreations.pdb
