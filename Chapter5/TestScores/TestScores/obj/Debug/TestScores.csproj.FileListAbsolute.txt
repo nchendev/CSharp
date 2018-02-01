@@ -1,0 +1,5 @@
+C:\Users\XM03-1021\Desktop\TestScores\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\XM03-1021\Desktop\TestScores\TestScores\bin\Debug\TestScores.exe
+C:\Users\XM03-1021\Desktop\TestScores\TestScores\bin\Debug\TestScores.pdb
+C:\Users\XM03-1021\Desktop\TestScores\TestScores\obj\Debug\TestScores.exe
+C:\Users\XM03-1021\Desktop\TestScores\TestScores\obj\Debug\TestScores.pdb

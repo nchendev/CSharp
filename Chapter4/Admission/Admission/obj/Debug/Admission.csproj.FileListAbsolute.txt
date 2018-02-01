@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\Admission\Admission\bin\Debug\Admission.exe.config
+C:\Users\XM03-1021\Desktop\Admission\Admission\obj\Debug\Admission.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\Admission\Admission\bin\Debug\Admission.exe
+C:\Users\XM03-1021\Desktop\Admission\Admission\bin\Debug\Admission.pdb
+C:\Users\XM03-1021\Desktop\Admission\Admission\obj\Debug\Admission.exe
+C:\Users\XM03-1021\Desktop\Admission\Admission\obj\Debug\Admission.pdb

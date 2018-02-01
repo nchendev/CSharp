@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\Perfect\Perfect\bin\Debug\Perfect.exe.config
+C:\Users\XM03-1021\Desktop\Perfect\Perfect\bin\Debug\Perfect.exe
+C:\Users\XM03-1021\Desktop\Perfect\Perfect\bin\Debug\Perfect.pdb
+C:\Users\XM03-1021\Desktop\Perfect\Perfect\obj\Debug\Perfect.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\Perfect\Perfect\obj\Debug\Perfect.exe
+C:\Users\XM03-1021\Desktop\Perfect\Perfect\obj\Debug\Perfect.pdb

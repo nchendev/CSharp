@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\XM03-1021\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\XM03-1021\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\XM03-1021\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\XM03-1021\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

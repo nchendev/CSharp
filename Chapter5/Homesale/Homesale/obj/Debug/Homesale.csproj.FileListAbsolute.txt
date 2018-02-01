@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\Homesale\Homesale\bin\Debug\Homesale.exe.config
+C:\Users\XM03-1021\Desktop\Homesale\Homesale\obj\Debug\Homesale.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\Homesale\Homesale\bin\Debug\Homesale.exe
+C:\Users\XM03-1021\Desktop\Homesale\Homesale\bin\Debug\Homesale.pdb
+C:\Users\XM03-1021\Desktop\Homesale\Homesale\obj\Debug\Homesale.exe
+C:\Users\XM03-1021\Desktop\Homesale\Homesale\obj\Debug\Homesale.pdb
