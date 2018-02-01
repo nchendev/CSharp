@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\OrderExceptionDemo2\OrderExceptionDemo2\bin\Debug\OrderExceptionDemo2.exe.config
+C:\Users\XM03-1021\Desktop\OrderExceptionDemo2\OrderExceptionDemo2\bin\Debug\OrderExceptionDemo2.exe
+C:\Users\XM03-1021\Desktop\OrderExceptionDemo2\OrderExceptionDemo2\bin\Debug\OrderExceptionDemo2.pdb
+C:\Users\XM03-1021\Desktop\OrderExceptionDemo2\OrderExceptionDemo2\obj\Debug\OrderExceptionDemo2.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\OrderExceptionDemo2\OrderExceptionDemo2\obj\Debug\OrderExceptionDemo2.exe
+C:\Users\XM03-1021\Desktop\OrderExceptionDemo2\OrderExceptionDemo2\obj\Debug\OrderExceptionDemo2.pdb

@@ -1,0 +1,5 @@
+C:\Users\XM03-1021\Desktop\OddNums\OddNums\bin\Debug\OddNums.exe.config
+C:\Users\XM03-1021\Desktop\OddNums\OddNums\bin\Debug\OddNums.exe
+C:\Users\XM03-1021\Desktop\OddNums\OddNums\bin\Debug\OddNums.pdb
+C:\Users\XM03-1021\Desktop\OddNums\OddNums\obj\Debug\OddNums.exe
+C:\Users\XM03-1021\Desktop\OddNums\OddNums\obj\Debug\OddNums.pdb

@@ -1,0 +1,5 @@
+C:\Users\XM03-1021\Desktop\PaintingEstimate\PaintingEstimate\bin\Debug\PaintingEstimate.exe.config
+C:\Users\XM03-1021\Desktop\PaintingEstimate\PaintingEstimate\bin\Debug\PaintingEstimate.exe
+C:\Users\XM03-1021\Desktop\PaintingEstimate\PaintingEstimate\bin\Debug\PaintingEstimate.pdb
+C:\Users\XM03-1021\Desktop\PaintingEstimate\PaintingEstimate\obj\Debug\PaintingEstimate.exe
+C:\Users\XM03-1021\Desktop\PaintingEstimate\PaintingEstimate\obj\Debug\PaintingEstimate.pdb

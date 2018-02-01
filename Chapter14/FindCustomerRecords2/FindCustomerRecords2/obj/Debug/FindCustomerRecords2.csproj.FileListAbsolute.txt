@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\FindCustomerRecords2\FindCustomerRecords2\bin\Debug\FindCustomerRecords2.exe.config
+C:\Users\XM03-1021\Desktop\FindCustomerRecords2\FindCustomerRecords2\bin\Debug\FindCustomerRecords2.exe
+C:\Users\XM03-1021\Desktop\FindCustomerRecords2\FindCustomerRecords2\bin\Debug\FindCustomerRecords2.pdb
+C:\Users\XM03-1021\Desktop\FindCustomerRecords2\FindCustomerRecords2\obj\Debug\FindCustomerRecords2.exe
+C:\Users\XM03-1021\Desktop\FindCustomerRecords2\FindCustomerRecords2\obj\Debug\FindCustomerRecords2.pdb
+C:\Users\XM03-1021\Desktop\FindCustomerRecords2\FindCustomerRecords2\obj\Debug\FindCustomerRecords2.csprojResolveAssemblyReference.cache

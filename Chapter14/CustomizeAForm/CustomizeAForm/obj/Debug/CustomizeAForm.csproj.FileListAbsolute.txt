@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\bin\Debug\CustomizeAForm.exe.config
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\obj\Debug\CustomizeAForm.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\obj\Debug\CustomizeAForm.Form1.resources
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\obj\Debug\CustomizeAForm.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\obj\Debug\CustomizeAForm.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\bin\Debug\CustomizeAForm.exe
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\bin\Debug\CustomizeAForm.pdb
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\obj\Debug\CustomizeAForm.exe
+C:\Users\XM03-1021\Desktop\CustomizeAForm\CustomizeAForm\obj\Debug\CustomizeAForm.pdb

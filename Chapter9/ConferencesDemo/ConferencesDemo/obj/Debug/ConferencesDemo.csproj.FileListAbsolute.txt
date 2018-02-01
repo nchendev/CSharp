@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe.config
+C:\Users\XM03-1021\Desktop\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.exe
+C:\Users\XM03-1021\Desktop\ConferencesDemo\ConferencesDemo\bin\Debug\ConferencesDemo.pdb
+C:\Users\XM03-1021\Desktop\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.exe
+C:\Users\XM03-1021\Desktop\ConferencesDemo\ConferencesDemo\obj\Debug\ConferencesDemo.pdb

@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.exe.config
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.Form1.resources
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.exe
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.pdb
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.exe
+C:\Users\XM03-1021\Desktop\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.pdb

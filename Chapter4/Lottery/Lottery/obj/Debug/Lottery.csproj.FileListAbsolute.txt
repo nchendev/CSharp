@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\XM03-1021\Desktop\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\XM03-1021\Desktop\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\XM03-1021\Desktop\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\XM03-1021\Desktop\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\XM03-1021\Desktop\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\XM03-1021\Desktop\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\XM03-1021\Desktop\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\XM03-1021\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\XM03-1021\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
+C:\Users\XM03-1021\Desktop\Multiplication\Multiplication\obj\Debug\Multiplication.csprojResolveAssemblyReference.cache

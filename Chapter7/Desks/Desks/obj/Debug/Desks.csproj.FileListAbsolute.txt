@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\Desks\Desks\bin\Debug\Desks.exe.config
+C:\Users\XM03-1021\Desktop\Desks\Desks\obj\Debug\Desks.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\Desks\Desks\bin\Debug\Desks.exe
+C:\Users\XM03-1021\Desktop\Desks\Desks\bin\Debug\Desks.pdb
+C:\Users\XM03-1021\Desktop\Desks\Desks\obj\Debug\Desks.exe
+C:\Users\XM03-1021\Desktop\Desks\Desks\obj\Debug\Desks.pdb

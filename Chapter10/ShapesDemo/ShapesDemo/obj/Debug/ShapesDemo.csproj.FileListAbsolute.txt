@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.exe.config
+C:\Users\XM03-1021\Desktop\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.exe
+C:\Users\XM03-1021\Desktop\ShapesDemo\ShapesDemo\bin\Debug\ShapesDemo.pdb
+C:\Users\XM03-1021\Desktop\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.exe
+C:\Users\XM03-1021\Desktop\ShapesDemo\ShapesDemo\obj\Debug\ShapesDemo.pdb

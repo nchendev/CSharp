@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using static System.Console;
+namespace Perfect
+{
+    class Program
+    {
+        static void Main()
+        {
+            int sum = 0, i = 0;
+            for (int number = 0; number <= 1000; ++number)
+            {
+                while(i<number)
+                {
+                    i = i + 1;
+                    if ((number % i) == 0)
+                    {
+                        sum = sum + number;
+                    }
+                }
+                if ((number - sum) == 0)
+                    WriteLine("{0} is a perfect number", sum);
+                //sum = 0;
+            }
+            ReadLine();
+        }
+    }
+}

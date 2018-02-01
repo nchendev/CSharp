@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\bin\Debug\FiveColors.exe.config
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\obj\Debug\FiveColors.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\obj\Debug\FiveColors.Form1.resources
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\obj\Debug\FiveColors.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\obj\Debug\FiveColors.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\bin\Debug\FiveColors.exe
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\bin\Debug\FiveColors.pdb
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\obj\Debug\FiveColors.exe
+C:\Users\XM03-1021\Desktop\FiveColors\FiveColors\obj\Debug\FiveColors.pdb

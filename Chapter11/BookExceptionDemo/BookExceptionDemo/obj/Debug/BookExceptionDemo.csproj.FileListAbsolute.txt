@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\BookExceptionDemo\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe.config
+C:\Users\XM03-1021\Desktop\BookExceptionDemo\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe
+C:\Users\XM03-1021\Desktop\BookExceptionDemo\BookExceptionDemo\bin\Debug\BookExceptionDemo.pdb
+C:\Users\XM03-1021\Desktop\BookExceptionDemo\BookExceptionDemo\obj\Debug\BookExceptionDemo.exe
+C:\Users\XM03-1021\Desktop\BookExceptionDemo\BookExceptionDemo\obj\Debug\BookExceptionDemo.pdb
+C:\Users\XM03-1021\Desktop\BookExceptionDemo\BookExceptionDemo\obj\Debug\BookExceptionDemo.csprojResolveAssemblyReference.cache

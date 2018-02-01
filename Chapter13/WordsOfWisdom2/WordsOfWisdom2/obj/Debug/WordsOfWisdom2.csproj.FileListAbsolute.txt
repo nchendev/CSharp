@@ -1,0 +1,9 @@
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\bin\Debug\WordsOfWisdom2.exe.config
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\bin\Debug\WordsOfWisdom2.exe
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\bin\Debug\WordsOfWisdom2.pdb
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\obj\Debug\WordsOfWisdom2.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\obj\Debug\WordsOfWisdom2.Form1.resources
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\obj\Debug\WordsOfWisdom2.Properties.Resources.resources
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\obj\Debug\WordsOfWisdom2.csproj.GenerateResource.Cache
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\obj\Debug\WordsOfWisdom2.exe
+C:\Users\nickc\Desktop\WordsOfWisdom2\WordsOfWisdom2\obj\Debug\WordsOfWisdom2.pdb

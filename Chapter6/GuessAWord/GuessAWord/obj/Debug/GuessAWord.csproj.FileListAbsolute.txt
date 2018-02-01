@@ -1,0 +1,12 @@
+c:\users\xm03-1021\documents\visual studio 2015\Projects\GuessAWord\GuessAWord\bin\Debug\GuessAWord.exe.config
+c:\users\xm03-1021\documents\visual studio 2015\Projects\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csprojResolveAssemblyReference.cache
+c:\users\xm03-1021\documents\visual studio 2015\Projects\GuessAWord\GuessAWord\bin\Debug\GuessAWord.exe
+c:\users\xm03-1021\documents\visual studio 2015\Projects\GuessAWord\GuessAWord\bin\Debug\GuessAWord.pdb
+c:\users\xm03-1021\documents\visual studio 2015\Projects\GuessAWord\GuessAWord\obj\Debug\GuessAWord.exe
+c:\users\xm03-1021\documents\visual studio 2015\Projects\GuessAWord\GuessAWord\obj\Debug\GuessAWord.pdb
+C:\Users\XM03-1021\Desktop\GuessAWord\GuessAWord\bin\Debug\GuessAWord.exe.config
+C:\Users\XM03-1021\Desktop\GuessAWord\GuessAWord\obj\Debug\GuessAWord.exe
+C:\Users\XM03-1021\Desktop\GuessAWord\GuessAWord\obj\Debug\GuessAWord.pdb
+C:\Users\XM03-1021\Desktop\GuessAWord\GuessAWord\bin\Debug\GuessAWord.exe
+C:\Users\XM03-1021\Desktop\GuessAWord\GuessAWord\bin\Debug\GuessAWord.pdb
+C:\Users\XM03-1021\Desktop\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csprojResolveAssemblyReference.cache

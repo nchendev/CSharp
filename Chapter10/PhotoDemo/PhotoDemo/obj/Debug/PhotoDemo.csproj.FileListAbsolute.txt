@@ -1,0 +1,7 @@
+c:\users\xm03-1021\documents\visual studio 2015\Projects\PhotoDemo\PhotoDemo\bin\Debug\PhotoDemo.exe.config
+C:\Users\XM03-1021\Desktop\PhotoDemo\PhotoDemo\bin\Debug\PhotoDemo.exe.config
+C:\Users\XM03-1021\Desktop\PhotoDemo\PhotoDemo\bin\Debug\PhotoDemo.exe
+C:\Users\XM03-1021\Desktop\PhotoDemo\PhotoDemo\bin\Debug\PhotoDemo.pdb
+C:\Users\XM03-1021\Desktop\PhotoDemo\PhotoDemo\obj\Debug\PhotoDemo.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\PhotoDemo\PhotoDemo\obj\Debug\PhotoDemo.exe
+C:\Users\XM03-1021\Desktop\PhotoDemo\PhotoDemo\obj\Debug\PhotoDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory1\TestFileAndDirectory1\bin\Debug\TestFileAndDirectory1.exe.config
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory1\TestFileAndDirectory1\bin\Debug\TestFileAndDirectory1.exe
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory1\TestFileAndDirectory1\bin\Debug\TestFileAndDirectory1.pdb
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory1\TestFileAndDirectory1\obj\Debug\TestFileAndDirectory1.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory1\TestFileAndDirectory1\obj\Debug\TestFileAndDirectory1.exe
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory1\TestFileAndDirectory1\obj\Debug\TestFileAndDirectory1.pdb

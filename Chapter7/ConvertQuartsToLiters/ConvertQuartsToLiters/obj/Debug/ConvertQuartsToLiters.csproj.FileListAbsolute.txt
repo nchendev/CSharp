@@ -1,0 +1,5 @@
+C:\Users\XM03-1021\Desktop\ConvertQuartsToLiters\ConvertQuartsToLiters\bin\Debug\ConvertQuartsToLiters.exe.config
+C:\Users\XM03-1021\Desktop\ConvertQuartsToLiters\ConvertQuartsToLiters\bin\Debug\ConvertQuartsToLiters.exe
+C:\Users\XM03-1021\Desktop\ConvertQuartsToLiters\ConvertQuartsToLiters\bin\Debug\ConvertQuartsToLiters.pdb
+C:\Users\XM03-1021\Desktop\ConvertQuartsToLiters\ConvertQuartsToLiters\obj\Debug\ConvertQuartsToLiters.exe
+C:\Users\XM03-1021\Desktop\ConvertQuartsToLiters\ConvertQuartsToLiters\obj\Debug\ConvertQuartsToLiters.pdb

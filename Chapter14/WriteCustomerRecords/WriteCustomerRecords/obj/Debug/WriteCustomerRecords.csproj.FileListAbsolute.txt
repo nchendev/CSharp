@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.exe.config
+C:\Users\XM03-1021\Desktop\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.exe
+C:\Users\XM03-1021\Desktop\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\WriteCustomerRecords.pdb
+C:\Users\XM03-1021\Desktop\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.exe
+C:\Users\XM03-1021\Desktop\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.pdb
+C:\Users\XM03-1021\Desktop\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\WriteCustomerRecords.csprojResolveAssemblyReference.cache

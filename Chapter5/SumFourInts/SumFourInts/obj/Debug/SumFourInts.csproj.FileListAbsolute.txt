@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\SumFourInts\SumFourInts\bin\Debug\SumFourInts.exe.config
+C:\Users\XM03-1021\Desktop\SumFourInts\SumFourInts\obj\Debug\SumFourInts.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\SumFourInts\SumFourInts\bin\Debug\SumFourInts.exe
+C:\Users\XM03-1021\Desktop\SumFourInts\SumFourInts\bin\Debug\SumFourInts.pdb
+C:\Users\XM03-1021\Desktop\SumFourInts\SumFourInts\obj\Debug\SumFourInts.exe
+C:\Users\XM03-1021\Desktop\SumFourInts\SumFourInts\obj\Debug\SumFourInts.pdb

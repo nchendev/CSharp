@@ -1,0 +1,9 @@
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\bin\Debug\TestFileAndDirectory2.exe.config
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\bin\Debug\TestFileAndDirectory2.exe
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\bin\Debug\TestFileAndDirectory2.pdb
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\obj\Debug\TestFileAndDirectory2.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\obj\Debug\TestFileAndDirectory2.Form1.resources
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\obj\Debug\TestFileAndDirectory2.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\obj\Debug\TestFileAndDirectory2.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\obj\Debug\TestFileAndDirectory2.exe
+C:\Users\XM03-1021\Desktop\TestFileAndDirectory2\TestFileAndDirectory2\obj\Debug\TestFileAndDirectory2.pdb

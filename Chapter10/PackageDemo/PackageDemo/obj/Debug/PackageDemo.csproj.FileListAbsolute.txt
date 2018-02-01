@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\PackageDemo\PackageDemo\bin\Debug\PackageDemo.exe.config
+C:\Users\XM03-1021\Desktop\PackageDemo\PackageDemo\obj\Debug\PackageDemo.csprojResolveAssemblyReference.cache
+C:\Users\XM03-1021\Desktop\PackageDemo\PackageDemo\bin\Debug\PackageDemo.exe
+C:\Users\XM03-1021\Desktop\PackageDemo\PackageDemo\bin\Debug\PackageDemo.pdb
+C:\Users\XM03-1021\Desktop\PackageDemo\PackageDemo\obj\Debug\PackageDemo.exe
+C:\Users\XM03-1021\Desktop\PackageDemo\PackageDemo\obj\Debug\PackageDemo.pdb

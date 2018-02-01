@@ -1,0 +1,8 @@
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\bin\Debug\MilesToKilometersGUI.exe.config
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.Form1.resources
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.Properties.Resources.resources
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.csproj.GenerateResource.Cache
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\bin\Debug\MilesToKilometersGUI.exe
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\bin\Debug\MilesToKilometersGUI.pdb
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.exe
+C:\Users\XM03-1021\Desktop\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.pdb

@@ -1,0 +1,6 @@
+C:\Users\XM03-1021\Desktop\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.exe.config
+C:\Users\XM03-1021\Desktop\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+C:\Users\XM03-1021\Desktop\DeliveryCharges\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+C:\Users\XM03-1021\Desktop\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.exe
+C:\Users\XM03-1021\Desktop\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.pdb
+C:\Users\XM03-1021\Desktop\DeliveryCharges\DeliveryCharges\obj\Debug\DeliveryCharges.csprojResolveAssemblyReference.cache
