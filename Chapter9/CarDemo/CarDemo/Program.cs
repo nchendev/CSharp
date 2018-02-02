@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: February 3, 2017
+///   Purpose: Program that exhibits the car class
+///-----------------------------------------------------------------
 namespace CarDemo
 {
     class Program

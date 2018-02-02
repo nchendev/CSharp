@@ -7,7 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: September 27, 2016
+///   Purpose: Program that converts 5 sums of user-inputed egg count
+///            to dozens
+///-----------------------------------------------------------------
 namespace EggsInteractiveGUI
 {
     public partial class Form1 : Form
@@ -28,7 +32,12 @@ namespace EggsInteractiveGUI
             sum = c1Ans + c2Ans + c3Ans + c4Ans + c5Ans;
             dozens = sum / 12;
             remainder = sum % 12;
-            label2.Text = sum+" eggs is "+dozens+"dozen with "+remainder+" left over.";
+            label2.Text = sum + " eggs is " + dozens + "dozen with " + remainder + " left over.";
+        }
+
+        private void c1Answer_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

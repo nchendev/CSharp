@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///------------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 19, 2017
+///   Purpose: Program that returns 3 integers forwards and backwards
+///------------------------------------------------------------------
 namespace Reverse3
 {
     class Program

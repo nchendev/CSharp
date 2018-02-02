@@ -7,7 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: September 27, 2016
+///   Purpose: Program that calculates and displays the payroll of 
+///            an employee in addition to other information
+///-----------------------------------------------------------------
 namespace PayRollGUI
 {
     public partial class Form1 : Form
@@ -52,6 +56,11 @@ namespace PayRollGUI
             label2.Visible = true;
             label2.Text = "Hi, "+name+", Social Security Number "+ssn+", Your Gross Pay is "+grossP+", your Federal Withholding Tax is "+fedT+
                 "your State Withholding Tax is " + stateT + ", and your Net Pay is " + netP + ".";
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

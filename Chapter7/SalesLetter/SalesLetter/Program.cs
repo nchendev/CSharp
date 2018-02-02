@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 9, 2017
+///   Purpose: Program that displays a sales letter
+///-----------------------------------------------------------------
 namespace SalesLetter
 {
     class Program

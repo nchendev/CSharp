@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 18, 2017
+///   Purpose: Program that demonstrates the passage of arrays thru
+///            a method
+///-----------------------------------------------------------------
 namespace FlexibleArrayMethod
 {
     class Program

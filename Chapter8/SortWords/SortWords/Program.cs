@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 24, 2017
+///   Purpose: Program that sorts a String array and returns its
+///            contents
+///-----------------------------------------------------------------
 namespace SortWords
 {
     class Program

@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 9, 2017
+///   Purpose: Program that calculates the cost of painting a room
+///            based on area
+///-----------------------------------------------------------------
 namespace PaintingEstimate
 {
     class Program

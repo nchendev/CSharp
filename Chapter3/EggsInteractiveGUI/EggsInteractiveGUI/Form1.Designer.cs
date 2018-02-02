@@ -53,6 +53,7 @@
             this.c1Answer.Name = "c1Answer";
             this.c1Answer.Size = new System.Drawing.Size(60, 26);
             this.c1Answer.TabIndex = 1;
+            this.c1Answer.TextChanged += new System.EventHandler(this.c1Answer_TextChanged);
             // 
             // c2Answer
             // 

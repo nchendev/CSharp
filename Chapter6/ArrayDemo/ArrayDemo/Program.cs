@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///------------------------------------------------------------------
+///   Author:  Nick Chen                    Date: November 30 2016
+///   Purpose: Program that gives the user options to view the
+///            contents of an array either first to last or backwards
+///------------------------------------------------------------------
 namespace ArrayDemo
 {
     class Program

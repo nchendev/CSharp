@@ -1,0 +1,2 @@
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter5\HomeSales\HomeSales\obj\Debug\HomeSales.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter5\HomeSales\HomeSales\obj\Debug\HomeSales.csproj.CoreCompileInputs.cache

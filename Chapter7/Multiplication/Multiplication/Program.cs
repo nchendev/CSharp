@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 9, 2017
+///   Purpose: Program that returns the multiples of a number
+///-----------------------------------------------------------------
 namespace Multiplication
 {
     class Program

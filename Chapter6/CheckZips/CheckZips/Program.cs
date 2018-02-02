@@ -4,13 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: November 30 2016
+///   Purpose: Program that checks if "we" deliver to a zip code
+///-----------------------------------------------------------------
 namespace CheckZips
 {
     class Program
     {
         static void Main()
         {
-            int[] zipCodes = {73012, 73013, 73014, 73015, 73016, 73017, 73018, 73019, 73020, 73021, 73022, 73023 };
+            int[] zipCodes = { 73012, 73013, 73014, 73015, 73016, 73017, 73018, 73019, 73020, 73021, 73022, 73023 };
             int i = 0, myZip = 0;
             bool deliver = false;
             WriteLine("What is your zip code?");

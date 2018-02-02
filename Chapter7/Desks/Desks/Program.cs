@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 11, 2017
+///   Purpose: Program that calculates the cost of a wooden desk 
+///            based on number of drawers and type of wood
+///-----------------------------------------------------------------
 namespace Desks
 {
     class Program

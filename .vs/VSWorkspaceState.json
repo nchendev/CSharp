@@ -1,14 +1,18 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter4\\Admission",
-    "\\Chapter4\\Admission\\Admission",
-    "\\Chapter4\\CheckMonth\\CheckMonth",
-    "\\Chapter4\\Lottery",
-    "\\Chapter4\\Lottery\\Lottery",
-    "\\Chapter4\\RockPaperScissors",
-    "\\Chapter4\\RockPaperScissors\\RockPaperScissors"
+    "\\Chapter9",
+    "\\Chapter9\\DemoJobs",
+    "\\Chapter9\\DemoJobs2",
+    "\\Chapter9\\DemoJobs2\\DemoJobs2",
+    "\\Chapter9\\DemoJobs\\DemoJobs",
+    "\\Chapter9\\SalesTransactionDemo",
+    "\\Chapter9\\SalesTransactionDemo\\SalesTransactionDemo",
+    "\\Chapter9\\TaxPayerDemo",
+    "\\Chapter9\\TaxpayerDemo2",
+    "\\Chapter9\\TaxpayerDemo2\\TaxpayerDemo2",
+    "\\Chapter9\\TaxPayerDemo\\TaxPayerDemo"
   ],
-  "SelectedNode": "\\Chapter4",
+  "SelectedNode": "\\Chapter9\\TaxpayerDemo2\\TaxpayerDemo2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

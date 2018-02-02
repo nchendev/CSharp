@@ -53,6 +53,7 @@
             this.t1.Name = "t1";
             this.t1.Size = new System.Drawing.Size(100, 26);
             this.t1.TabIndex = 1;
+            this.t1.TextChanged += new System.EventHandler(this.t1_TextChanged);
             // 
             // t2
             // 

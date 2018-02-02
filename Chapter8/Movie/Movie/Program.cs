@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 24, 2017
+///   Purpose: Program that returns a movies name and length
+///-----------------------------------------------------------------
 namespace Movie
 {
     class Program
