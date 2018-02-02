@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: November 8, 2016
+///   Purpose: Program that returns odd numbers from user-inputted
+///            values
+///-----------------------------------------------------------------
 namespace OddNums
 {
     class Program

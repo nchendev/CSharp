@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: February 3, 2017
+///   Purpose: Program that tests a taxpayer class
+///-----------------------------------------------------------------
 namespace TaxPayerDemo
 {
     class Program
@@ -24,7 +28,7 @@ namespace TaxPayerDemo
             }
             Array.Sort(tpArray);
             WriteLine("Here are the taxpayers sorted by income tax owed: ");
-            for(int i=0; i<10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Write("Taxpayer {0} with {1}, ", tpArray[i], tpArray[i].incTaxOwed.ToString("C"));
             }

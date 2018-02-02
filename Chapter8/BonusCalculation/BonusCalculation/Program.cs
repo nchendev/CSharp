@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 20, 2017
+///   Purpose: Program that calculates and displays a salaryman's
+///            wages, bonus, and total pay
+///-----------------------------------------------------------------
 namespace BonusCalculation
 {
     class Program

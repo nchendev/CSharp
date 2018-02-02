@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: February 1, 2017
+///   Purpose: Program that tests a salestransaction class
+///-----------------------------------------------------------------
 namespace SalesTransactionDemo
 {
     class SalesTransaction
@@ -51,8 +55,8 @@ namespace SalesTransactionDemo
         public static SalesTransaction operator +(SalesTransaction salesTransaction1, SalesTransaction salesTransaction2)
         {
             String name = salesTransaction1.name + " and " + salesTransaction2.name;
-            double salesAmount = salesTransaction1.salesAmount +  salesTransaction2.salesAmount; 
-            double commissionRate = salesTransaction1.commissionRate + salesTransaction2.commissionRate; 
+            double salesAmount = salesTransaction1.salesAmount + salesTransaction2.salesAmount;
+            double commissionRate = salesTransaction1.commissionRate + salesTransaction2.commissionRate;
             double commission = salesAmount * commissionRate;
             return new SalesTransaction(name, salesAmount, commissionRate);
         }

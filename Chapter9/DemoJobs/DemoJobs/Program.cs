@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: February 9, 2017
+///   Purpose: Program that tests a jobs class
+///-----------------------------------------------------------------
 namespace DemoJobs
 {
     class Program
@@ -54,11 +58,11 @@ namespace DemoJobs
             this.hourlyRate = hourlyRate;
             this.totalFee = totalFee;
         }
-        public static Job operator+(Job job1, Job job2)
+        public static Job operator +(Job job1, Job job2)
         {
             String description = job1.description + " and " + job2.description;
             double timeReq = job1.timeReq + job2.timeReq;
-            double hourlyRate = (job1.hourlyRate + job2.hourlyRate)/2;
+            double hourlyRate = (job1.hourlyRate + job2.hourlyRate) / 2;
             double totalFee = timeReq * hourlyRate;
             return new DemoJobs.Job(description, timeReq, hourlyRate, totalFee);
         }

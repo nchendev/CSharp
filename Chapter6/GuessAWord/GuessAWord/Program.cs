@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: December 15, 2016
+///   Purpose: Program that simulates hangman; user is asked to 
+///            guess a word. If he guesses a letter correctly it is
+///            shown in the string of asterisks
+///            IE: f*r*t (word is first)
+///-----------------------------------------------------------------
 namespace GuessAWord
 {
     class Program
@@ -11,14 +18,14 @@ namespace GuessAWord
         static void Main()
         {
             //storing 8 words into array
-            String[] wordBank = { "chinaman", "chinawoman", "chinakid", "chinadog", "chinahog", "chinachicken", "chinaduck", "madeinchina" };
+            String[] wordBank = { "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth" };
             //randomly select one to be hidden word
             Random rnd = new Random();
             int key = rnd.Next(1, 8);
             String word = wordBank[key];
             //use asterisks to represent the hidden letters
             String[] current = new String[word.Length];
-            for (int i =0; i < word.Length; i++)
+            for (int i = 0; i < word.Length; i++)
             {
                 current[i] = "*";
             }

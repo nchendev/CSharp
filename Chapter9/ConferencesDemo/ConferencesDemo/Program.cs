@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: February 9, 2017
+///   Purpose: Program that manages information about conferences
+///-----------------------------------------------------------------
 namespace ConferencesDemo
 {
     class Program
@@ -14,24 +18,24 @@ namespace ConferencesDemo
             double sDatec;
             int attendeesc;
             Conference[] confArray = new Conference[5];
-            for(int i=0; i <5; i++)
+            for (int i = 0; i < 5; i++)
             {
                 WriteLine("_____________");
-                WriteLine("CONFERENCE {0}", i+1);
+                WriteLine("CONFERENCE {0}", i + 1);
                 WriteLine("-------------");
                 GetData(out gNamec, out sDatec, out attendeesc);
                 confArray[i] = new Conference(gNamec, sDatec, attendeesc);
-            } 
-            
+            }
+
             Array.Sort(confArray);
             WriteLine("Sorted Conferences by no. Attendees: ");
             for (int k = 0; k < 5; k++)
             {
                 Conference tempConf = confArray[k];
-                Write(tempConf.gName + ", ");   
+                Write(tempConf.gName + ", ");
             }
 
-        ReadLine();
+            ReadLine();
         }
         public static void GetData(out string gNamec, out double sDatec, out int attendeesc)
         {
@@ -43,7 +47,7 @@ namespace ConferencesDemo
             attendeesc = Int32.Parse(ReadLine());
         }
     }
-    class Conference :IComparable
+    class Conference : IComparable
     {
         public string gName;
         public double sDate;
@@ -64,9 +68,9 @@ namespace ConferencesDemo
                 returnVal = 1;
             else
                 if (this.attendees < temp.attendees)
-                    returnVal = -1;
-                else
-                    returnVal = 0;
+                returnVal = -1;
+            else
+                returnVal = 0;
             return returnVal;
         }
     }

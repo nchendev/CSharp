@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-namespace Reverse3
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 19, 2017
+///   Purpose: Program that returns 4 integers forwards and backwards
+///------------------------------------------------------------------
+namespace Reverse4
 {
     class Program
     {

@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: October 17, 2016
+///   Purpose: Program that simulates a lottery
+///-----------------------------------------------------------------
 namespace Lottery
 {
     class Program
@@ -62,14 +65,15 @@ namespace Lottery
                 if (guess1 == randomNumber1 && guess2 == randomNumber2 && guess3 == randomNumber3)
                 {
                     amtWon = 10000;
-                }else
+                }
+                else
                 //3 matching, not in order
                 if (guess1 == randomNumber1 || guess1 == randomNumber2 || guess1 == randomNumber3 && guess2 == randomNumber1 || guess2 == randomNumber2 || guess2 == randomNumber3 && guess3 == randomNumber1 || guess3 == randomNumber2 || guess3 == randomNumber3)
                 {
                     amtWon = 1000;
                 }
             }
-           
+
             //Final WriteLine
             WriteLine("Your winnings is {0}!", amtWon);
 

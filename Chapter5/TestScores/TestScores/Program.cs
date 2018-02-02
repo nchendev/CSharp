@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: November 4, 2016
+///   Purpose: Program that returns the number of test scores the
+///            user submits and the average score
+///-----------------------------------------------------------------
 namespace TestScores
 {
     class Program
@@ -31,7 +35,8 @@ namespace TestScores
                     total = total + current;
                     numsub = numsub + 1;
                 }
-            }            WriteLine("You entered {0} scores with an average of {1}", numsub, total / numsub);
+            }
+            WriteLine("You entered {0} scores with an average of {1}", numsub, total / numsub);
             ReadLine();
         }
     }

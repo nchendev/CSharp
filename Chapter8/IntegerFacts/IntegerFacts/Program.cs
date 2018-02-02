@@ -4,13 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: January 20, 2017
+///   Purpose: Program that returns the highest, lowest, sum, and
+///            average value in an array of integers
+///-----------------------------------------------------------------
 namespace IntegerFacts
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] integers = { 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1};
+            int[] integers = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
             int high, low, sum, average;
             fillArray(ref integers);
             calculate(ref integers, out high, out low, out sum, out average);
@@ -25,11 +30,11 @@ namespace IntegerFacts
                 int value;
                 WriteLine("Give me an integer to add to the array {0}/20.", i);
                 entryLine = ReadLine();
-                while(!int.TryParse(entryLine, out value))
-                    {
+                while (!int.TryParse(entryLine, out value))
+                {
                     WriteLine("Nah that's not an integer. Try again.");
                     entryLine = ReadLine();
-                    }
+                }
                 array[i] = Int32.Parse(entryLine);
             }
         }

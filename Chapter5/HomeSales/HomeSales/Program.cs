@@ -4,14 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: December 7, 2016
+///   Purpose: Program that simulates salespeople and their sales
+///-----------------------------------------------------------------
 namespace HomeSales
 {
     class Program
     {
         static void Main()
         {
-            String[, , ,] salespeople = { { "Danielle", "D", "0" }, { "Edward", "E", "0" }, { "Francis", "F", "0" } };
+            String[,,,] salespeople = { { "Danielle", "D", "0" }, { "Edward", "E", "0" }, { "Francis", "F", "0" } };
             string ans, highest = "";
             WriteLine("Which salesperson would you like to call? Type D or danielle, E for edward, or F for Francis: ");
             ans = ReadLine();
@@ -19,10 +22,10 @@ namespace HomeSales
             {
                 WriteLine("Which salesperson would you like to call? Type D or danielle, E for edward, or F for Francis. Type Z to end the program");
                 ans = ReadLine();
-                for (int i =0; i <= 3; i++)
+                for (int i = 0; i <= 3; i++)
                 {
                     if (ans.ToUpper == salespeople[i, 1])
-                        salespeople[i,2] = String.Parse(Int32.Parse(salespeople[i, 2]) + 1);
+                        salespeople[i, 2] = String.Parse(Int32.Parse(salespeople[i, 2]) + 1);
                 }
             }
             if (ans.ToUpper() == "Z")

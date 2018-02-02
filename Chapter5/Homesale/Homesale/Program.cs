@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: November 8, 2016
+///   Purpose: Program that simulates salespeople and sales calls
+///-----------------------------------------------------------------
 namespace Homesale
 {
     class Program
@@ -12,7 +15,7 @@ namespace Homesale
         static void Main()
         {
             int dAMT = 0, eAMT = 0, fAMT = 0;
-            string ans, highest="";
+            string ans, highest = "";
             WriteLine("Which salesperson would you like to call? Type D or danielle, E for edward, or F for Francis: ");
             ans = ReadLine();
             while (ans != "Z" && ans != "z")
@@ -36,7 +39,7 @@ namespace Homesale
                     WriteLine("ERROR");
                 }
             }
-            if ((ans == "Z" )|| (ans == "z"))
+            if ((ans == "Z") || (ans == "z"))
             {
                 WriteLine("Danielle was chosen {0} times, Edward was chosen {1} times, and Francis was chosen {2} times.", dAMT, eAMT, fAMT);
                 WriteLine("The total amount of sales was {0}", dAMT + eAMT + fAMT);
