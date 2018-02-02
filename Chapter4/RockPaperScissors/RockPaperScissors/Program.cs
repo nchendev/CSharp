@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///------------------------------------------------------------------
+///   Author:  Nick Chen                    Date: October 13, 2016
+///   Purpose: Program that simulates a game of rock, paper, scissors
+///------------------------------------------------------------------
 namespace RockPaperScissors
 {
     class Program
