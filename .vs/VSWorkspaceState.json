@@ -1,18 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter9",
-    "\\Chapter9\\DemoJobs",
-    "\\Chapter9\\DemoJobs2",
-    "\\Chapter9\\DemoJobs2\\DemoJobs2",
-    "\\Chapter9\\DemoJobs\\DemoJobs",
-    "\\Chapter9\\SalesTransactionDemo",
-    "\\Chapter9\\SalesTransactionDemo\\SalesTransactionDemo",
-    "\\Chapter9\\TaxPayerDemo",
-    "\\Chapter9\\TaxpayerDemo2",
-    "\\Chapter9\\TaxpayerDemo2\\TaxpayerDemo2",
-    "\\Chapter9\\TaxPayerDemo\\TaxPayerDemo"
+    "\\Chapter3",
+    "\\Chapter3\\EggsInteractiveGUI"
   ],
-  "SelectedNode": "\\Chapter9\\TaxpayerDemo2\\TaxpayerDemo2\\Program.cs",
+  "SelectedNode": "\\Chapter3\\EggsInteractiveGUI\\EggsInteractiveGUI.sln",
   "PreviewInSolutionExplorer": false
 }
