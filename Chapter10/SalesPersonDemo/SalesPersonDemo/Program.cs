@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 9, 2017
+///   Purpose: Program that demonstrates two types of salespeople
+///            that inherit the same parent class
+///-----------------------------------------------------------------
 namespace SalesPersonDemo
 {
     class Program

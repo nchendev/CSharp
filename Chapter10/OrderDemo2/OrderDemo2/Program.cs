@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 7, 2017
+///   Purpose: Program that prompts the user to enter Order objects
+///            and then return their values
+///-----------------------------------------------------------------
 namespace OrderDemo2
 {
     class Program
@@ -73,7 +78,6 @@ namespace OrderDemo2
         public override string ToString()
         {
             return "Order " + name + " is number " + number + ", costs $" + totalPrice + " for " + quantity + ". Its hash code is " + GetHashCode();
-
         }
     }
 }

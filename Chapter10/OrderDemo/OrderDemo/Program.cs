@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 2, 2017
+///   Purpose: Program that compares 4 orders and prints out their
+///            values
+///-----------------------------------------------------------------
 namespace OrderDemo
 {
     class Program
@@ -18,11 +23,11 @@ namespace OrderDemo
             WriteLine(order3.ToString());
             Order order4 = new Order(8, "ordahfo", 5);
             WriteLine(order4.ToString());
-            
 
-            WriteLine("Order 1 == Order 2: "+order1.Equals(order2));
-            WriteLine("Order 1 == Order 3: "+order1.Equals(order3));
-            WriteLine("Order 1 == Order 4: "+order1.Equals(order4));
+
+            WriteLine("Order 1 == Order 2: " + order1.Equals(order2));
+            WriteLine("Order 1 == Order 3: " + order1.Equals(order3));
+            WriteLine("Order 1 == Order 4: " + order1.Equals(order4));
 
             ReadLine();
         }
@@ -57,7 +62,6 @@ namespace OrderDemo
         public override string ToString()
         {
             return "Order " + name + " is number " + number + ", costs $" + totalPrice + " for " + quantity + ". Its hash code is " + GetHashCode();
-        
         }
     }
 }

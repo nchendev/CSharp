@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: February 22, 2017
+///   Purpose: Program that returns the price of a photo based on
+///            various factors
+///-----------------------------------------------------------------
 namespace PhotoDemo
 {
     class Program
