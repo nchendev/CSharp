@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 9, 2017
+///   Purpose: Program that finds the area of input based on its 
+///            shape
+///-----------------------------------------------------------------
 namespace ShapesDemo
 {
     class Program

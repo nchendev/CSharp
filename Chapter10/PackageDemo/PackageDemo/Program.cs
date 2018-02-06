@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 7, 2017
+///   Purpose: Program that returns the cost of mailing a package
+///            depending on various factors, including whether it's
+///            insured or not
+///-----------------------------------------------------------------
 namespace PackageDemo
 {
     class Program
