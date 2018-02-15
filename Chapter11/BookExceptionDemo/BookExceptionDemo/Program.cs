@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: April 13, 2017
+///   Purpose: Program that tests exception catching 
+///-----------------------------------------------------------------
 namespace BookExceptionDemo
 {
     class Program

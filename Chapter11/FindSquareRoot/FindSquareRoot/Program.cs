@@ -4,7 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 24, 2017
+///   Purpose: Program that finds the square root of valid numbers
+///            and throws an exception when invalid numbers are
+///            submitted
+///-----------------------------------------------------------------
 namespace FindSquareRoot
 {
     class Program

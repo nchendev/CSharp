@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: April 13, 2017
+///   Purpose: Program that tests exception catching 
+///-----------------------------------------------------------------
 namespace BookExceptionDemo2
 {
     class Program
@@ -79,7 +82,7 @@ namespace BookExceptionDemo2
         }
         public override string ToString()
         {
-            return (" title:"+title+", price per page:"+price+", pages:"+pages);
+            return (" title:" + title + ", price per page:" + price + ", pages:" + pages);
         }
     }
     class BookException : Exception

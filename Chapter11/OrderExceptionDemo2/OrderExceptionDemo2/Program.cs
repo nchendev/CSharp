@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 28, 2017
+///   Purpose: Program that tests exception catching 
+///-----------------------------------------------------------------
 namespace OrderExceptionDemo2
 {
     class Program

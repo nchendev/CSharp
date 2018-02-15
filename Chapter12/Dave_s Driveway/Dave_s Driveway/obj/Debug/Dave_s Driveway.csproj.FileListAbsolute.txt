@@ -7,3 +7,13 @@ C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\bin\Debug\Dave's Driv
 C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\bin\Debug\Dave's Driveway.pdb
 C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave's Driveway.exe
 C:\Users\XM03-1021\Desktop\Dave's Driveway\Dave's Driveway\obj\Debug\Dave's Driveway.pdb
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\bin\Debug\Dave's Driveway.exe.config
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\bin\Debug\Dave's Driveway.exe
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\bin\Debug\Dave's Driveway.pdb
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\obj\Debug\Dave_s Driveway.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\obj\Debug\Dave_s_Driveway.Form1.resources
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\obj\Debug\Dave_s_Driveway.Properties.Resources.resources
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\obj\Debug\Dave_s Driveway.csproj.GenerateResource.Cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\obj\Debug\Dave_s Driveway.csproj.CoreCompileInputs.cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\obj\Debug\Dave's Driveway.exe
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\Dave_s Driveway\Dave_s Driveway\obj\Debug\Dave's Driveway.pdb

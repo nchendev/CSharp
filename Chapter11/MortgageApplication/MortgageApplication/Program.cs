@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 24, 2017
+///   Purpose: Program that creates MortgageApp objects and throws
+///            an exception if the credit score entered is not valid
+///-----------------------------------------------------------------
 namespace MortgageApplication
 {
     class Program
