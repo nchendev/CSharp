@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: March 22, 2017
+///   Purpose: Program that returns the position of a value within
+///            an array and throws an exception if value is not 
+///            found
+///-----------------------------------------------------------------
 namespace SubscriptExceptionTest
 {
     class Program

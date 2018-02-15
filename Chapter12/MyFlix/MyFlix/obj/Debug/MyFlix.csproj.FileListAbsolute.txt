@@ -7,3 +7,13 @@ C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.csproj.GenerateResourc
 C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.exe
 C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.pdb
 C:\Users\XM03-1021\Desktop\MyFlix\MyFlix\obj\Debug\MyFlix.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\bin\Debug\MyFlix.exe.config
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\bin\Debug\MyFlix.exe
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\bin\Debug\MyFlix.pdb
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\obj\Debug\MyFlix.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\obj\Debug\MyFlix.Form1.resources
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\obj\Debug\MyFlix.Properties.Resources.resources
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\obj\Debug\MyFlix.csproj.GenerateResource.Cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\obj\Debug\MyFlix.csproj.CoreCompileInputs.cache
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\obj\Debug\MyFlix.exe
+C:\Users\nickc\Documents\GitHub\CSharp\Chapter12\MyFlix\MyFlix\obj\Debug\MyFlix.pdb

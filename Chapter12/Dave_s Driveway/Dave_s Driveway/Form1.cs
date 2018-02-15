@@ -7,7 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+///-----------------------------------------------------------------
+///   Author:  Nick Chen                    Date: April 11, 2017
+///   Purpose: GUI Program that calculates the cost of employing Dave
+///-----------------------------------------------------------------
 namespace Dave_s_Driveway
 {
     public partial class Form1 : Form

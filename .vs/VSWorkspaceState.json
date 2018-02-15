@@ -1,11 +1,18 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter3\\HelloVisualWorld\\HelloVisualWorld",
-    "\\Chapter3\\MilesToKilometersGUI\\MilesToKilometersGUI",
-    "\\Chapter3\\PayRollGUI\\PayRollGUI",
-    "\\Chapter3\\TestsInteractiveGUI\\TestsInteractiveGUI"
+    "\\Chapter12",
+    "\\Chapter12\\Dave_s Driveway",
+    "\\Chapter12\\Dave_s Driveway\\Dave_s Driveway",
+    "\\Chapter12\\FiveColors",
+    "\\Chapter12\\fivecolors2",
+    "\\Chapter12\\fivecolors2\\fivecolors2",
+    "\\Chapter12\\FiveColors\\FiveColors",
+    "\\Chapter12\\MyFlix",
+    "\\Chapter12\\MyFlix\\MyFlix",
+    "\\Chapter12\\NinasCookieSource",
+    "\\Chapter12\\NinasCookieSource\\NinasCookieSource"
   ],
-  "SelectedNode": "\\Chapter3",
+  "SelectedNode": "\\Chapter12\\NinasCookieSource\\NinasCookieSource\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
